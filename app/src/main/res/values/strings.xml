@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ListaDeTareas</string>
+    <string name="str_editarTarea">Editar Tarea</string>
+    <string name="str_dateHint">dd/mm/yyyy</string>
+    <string name="str_timeHint">hh:mm</string>
+    <string name="btn_cancelar">CANCELAR</string>
+    <string name="btn_guardar">GUARDAR</string>
+    <string name="str_categoria">Categoria: </string>
+    <string name="btn_ocio">Ocio</string>
+    <string name="btn_deporte">Deporte</string>
+    <string name="btn_trabajo">Trabajo</string>
+    <string name="btn_estudios">Estudios</string>
+    <string name="btn_familia">Familia</string>
+    <string name="btn_amigos">Amigos</string>
+</resources>
